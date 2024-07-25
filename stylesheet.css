@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bgm {
+    background-image: url(NETFLIX.JPG.jpg);
+    background-size: cover;
+    
+}
+.c-img{
+    max-width: 100px;
+}
+.form-control{
+    background-color: #050505;
+}
+.bgcr {
+    background-color: black;
+}
+.bgcrr{
+    background-color: black;
+}
+.bggcr{
+    background-color: black;
+}
+.bgccr{
+    background-color: black;
+}
+.bgccrr{
+    background-color: black;
+}
+.accordion-button{
+    background-color: #363635;
+    border: 0;
+    color: #fff;
+    font-size: x-large;
+    border: black solid 5px;
+}
+.accordion-collapse{
+    background-color: #70706f;
+    font-size: larger;
+    color: #fff;
+}
+.footer{
+    background-color: #050505;
+    color: #70706f;
+}
+
+.c-border-top{
+    border-top: #70706f solid 10px;
+}
